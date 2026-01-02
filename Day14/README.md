@@ -1,6 +1,6 @@
-# Higher Lower Game 🎯
+# Higher Lower Game 
 
-## 📌 About the Project
+##  About the Project
 The **Higher Lower Game** is a Python-based console game where the player compares two famous personalities, brands, or social media platforms and guesses **who has more followers**.
 
 The goal is simple:
@@ -11,7 +11,7 @@ This project is designed to strengthen **core Python fundamentals** through a fu
 
 ---
 
-## 🕹️ How the Game Works
+##  How the Game Works
 1. Two random entities are selected from a dataset.
 2. Each entity has:
    - Name  
@@ -30,7 +30,7 @@ This project is designed to strengthen **core Python fundamentals** through a fu
 
 ---
 
-## 🧠 Concepts Used
+##  Concepts Used
 - Python lists and dictionaries  
 - Functions  
 - While loops  
@@ -40,7 +40,7 @@ This project is designed to strengthen **core Python fundamentals** through a fu
 
 ---
 
-## 🚀 What I Learned
+##  What I Learned
 - Writing clean and reusable functions
 - Implementing comparison logic
 - Managing program flow using loops
